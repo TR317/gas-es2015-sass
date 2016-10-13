@@ -1,0 +1,29 @@
+{
+  "name": "gas-es2015-sass-starterkit",
+  "version": "0.0.1",
+  "description": "This package is gas-es2015-sass-starterkit.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp run",
+    "gas-upload": "gulp gas-upload"
+  },
+  "author": "r_takigawa",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babelify": "^5.0.5",
+    "browserify": "^13.1.0",
+    "gasify": "^0.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-exec": "^2.1.2",
+    "gulp-load-plugins": "^1.3.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-tap": "^0.1.3",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
